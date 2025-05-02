@@ -13,8 +13,7 @@
 
 Pawthentic is a responsive website dedicated to providing honest, thorough, and authentic pet product reviews. Our mission is to help pet parents make informed decisions for their furry companions by offering unbiased reviews and helpful advice for all pet needs.
 
-![Pawthentic Website Preview](https://amungabrenda.github.io/pawthentic/)
-
+![[Pawthentic Website Preview](https://amungabrenda.github.io/pawthentic/)]
 ---
 
 ## ✨ Features
